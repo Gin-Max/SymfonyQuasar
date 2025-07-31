@@ -1,0 +1,17 @@
+# Symfony
+/vendor/
+/var/
+/.env
+/.idea/
+/.vscode/
+
+# Node.js / frontend
+/node_modules/
+/dist/
+/.quasar/
+
+# Mac OS
+.DS_Store
+
+# Logs
+*.log
